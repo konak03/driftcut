@@ -1,0 +1,26 @@
+# Driftcut
+
+Kick, YouTube ve Twitch yayınlarından dikey **Shorts / Reels / TikTok** videoları hazırlayan Windows masaüstü editörü.
+
+## İndir
+
+**[Son sürümü indir](https://github.com/konak03/driftcut/releases/latest)**: sayfadaki `Driftcut-Kurulum-x.y.z.exe` dosyası.
+
+- Windows 10 / 11, 64 bit.
+- Kurulum dosyası imzasız olduğu için Windows ilk açılışta *"Windows kişisel bilgisayarınızı korudu"* diyebilir:
+  **Ek bilgi** > **Yine de çalıştır**.
+- Program yeni sürümleri buradan kendisi denetler; güncelleme çıkınca içeriden tek tıkla kurulur.
+
+## Neler var
+
+- Yayın bağlantısından ya da bilgisayardaki videodan klip seçme, kesme, birleştirme
+- Premiere mantığında zaman çizelgesi: böl, kısalt, araya ekle (Insert), Ctrl ile üzerine yaz (Overwrite), boşluğu kapat, geri al; kesimler kareye oturur
+- Hazır kamera / oyun şablonları ya da Premiere'deki gibi serbest kare: Short üzerinde kırp, ölçekle, döndür, taşı
+- Her kesilmiş parçaya ayrı ayar, kamera anı (belli bir sürede kamera öne çıkar)
+- Çok katmanlı zaman çizelgesi: video, fotoğraf, yazı, ses, efekt; katmanlar sırasıyla üst üste biner, efekt altındaki her katmana işler (Premiere'deki ayar katmanı gibi); yayın kesiti üst katmana da konur
+- 15 görüntü efekti, geçişler, otomatik ve elle düzenlenebilir altyazı stilleri
+- 1080×1920 MP4 dışa aktarma
+
+## Sürümler
+
+Değişiklikler her sürümün [sürüm notlarında](https://github.com/konak03/driftcut/releases).
