@@ -20,6 +20,7 @@ Kick, YouTube ve Twitch yayınlarından dikey **Shorts / Reels / TikTok** videol
 - Çok katmanlı zaman çizelgesi: video, fotoğraf, yazı, ses, efekt; katmanlar sırasıyla üst üste biner, efekt altındaki her katmana işler (Premiere'deki ayar katmanı gibi); yayın kesiti üst katmana da konur
 - 15 görüntü efekti, geçişler, otomatik ve elle düzenlenebilir altyazı stilleri
 - 1080×1920 MP4 dışa aktarma
+- Kişiselleştirme: 7 renk teması ya da kendi renklerin, kendi arka plan resmin, cam efekti, arayüz ölçeği (küçük ekrana kendiliğinden sığar), kısayolları değiştirme, ayarları başka bilgisayara taşıma
 
 ## Sürümler
 
