@@ -9,7 +9,7 @@ Kick, YouTube ve Twitch yayınlarından dikey **Shorts / Reels / TikTok** videol
 - Windows 10 / 11, 64 bit.
 - Kurulum dosyası imzasız olduğu için Windows ilk açılışta *"Windows kişisel bilgisayarınızı korudu"* diyebilir:
   **Ek bilgi** > **Yine de çalıştır**.
-- Program yeni sürümleri buradan kendisi denetler; güncelleme çıkınca içeriden tek tıkla kurulur.
+- Program açıkken yeni sürümü buradan kendisi denetler (10 dakikada bir) ve sorar; "Sonraki açılışta" dersen bir sonraki açılışta kendiliğinden kurulur.
 
 ## Neler var
 
