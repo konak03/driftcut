@@ -1,6 +1,6 @@
 # Driftcut
 
-> **Beta (0.x):** Driftcut henüz beta; sürümler ilk tam sürüme (1.0) kadar 0.1, 0.2… diye artar. Depo beta boyunca gizlidir.
+> **Beta (0.x):** Driftcut henüz beta; sürümler ilk tam sürüme (1.0) kadar 0.1, 0.2… diye artar.
 
 Kick, YouTube ve Twitch yayınlarından dikey **Shorts / Reels / TikTok** videoları hazırlayan Windows masaüstü editörü.
 
@@ -11,19 +11,31 @@ Kick, YouTube ve Twitch yayınlarından dikey **Shorts / Reels / TikTok** videol
 - Windows 10 / 11, 64 bit.
 - Kurulum dosyası imzasız olduğu için Windows ilk açılışta *"Windows kişisel bilgisayarınızı korudu"* diyebilir:
   **Ek bilgi** > **Yine de çalıştır**.
-- Program açıkken yeni sürümü buradan kendisi denetler (10 dakikada bir) ve sorar; "Sonraki açılışta" dersen bir sonraki açılışta kendiliğinden kurulur.
+- Eski sürümün üstüne kurulur: projeler, ayarlar ve dışa aktarma klasörü yerinde kalır.
+
+## Güncelleme
+
+- Program açıkken yeni sürümü buradan kendisi denetler (10 dakikada bir) ve sorar: **Şimdi güncelle** dersen indirir,
+  dosyanın bozulmadığını denetler, kurar ve kendini yeniden açar; "Sonraki açılışta" dersen bir sonraki açılışta kurulur.
+- **1.x sürümlerinden biri kuruluysa** (1.7 ve öncesi): bir kez yukarıdaki bağlantıdan son sürümü indirip elle kur.
+  O sürümler numarayı yazıyla karşılaştırdığı için 0.x'i "eski" sanar; elle kurduktan sonra güncellemeler kendiliğinden gelir.
 
 ## Neler var
 
-- Yayın bağlantısından ya da bilgisayardaki videodan klip seçme, kesme, birleştirme
-- Premiere mantığında zaman çizelgesi: böl, kısalt, araya ekle (Insert), Ctrl ile üzerine yaz (Overwrite), boşluğu kapat, geri al; kesimler kareye oturur
-- Hazır kamera / oyun şablonları ya da Premiere'deki gibi serbest kare: Short üzerinde kırp, ölçekle, döndür, taşı
-- Her kesilmiş parçaya ayrı ayar, kamera anı (belli bir sürede kamera öne çıkar)
-- Çok katmanlı zaman çizelgesi: video, fotoğraf, yazı, ses, efekt; katmanlar sırasıyla üst üste biner, efekt altındaki her katmana işler (Premiere'deki ayar katmanı gibi); yayın kesiti üst katmana da konur
-- 15 görüntü efekti, geçişler, otomatik ve elle düzenlenebilir altyazı stilleri
+- Yayın bağlantısından ya da bilgisayardaki videodan klip seçme, kesme, birleştirme; masaüstünden sürükle bırak
+- Premiere mantığında zaman çizelgesi: böl, kısalt, araya ekle (Insert), Ctrl ile üzerine yaz (Overwrite), boşluğu kapat,
+  geri al; kesimler kareye oturur; sürüklerken ayraç çizgisi ve önizlemede kenar karesi (kırpmada son kalan kare)
+- Katman 1, Katman 2…: her medya her katmana; video üst katmana çıkınca sesi Katman 1 sesi şeridinde yerinde kalır (bağlı)
+- Hazır kamera / oyun şablonları ya da serbest kare: Short üzerinde kırp, ölçekle, döndür, taşı
+- **Keyframe animasyonu** (konum, boyut, açı, opaklık; ana videoda yakınlaştırma), **takip** (kamera bir noktayı izler
+  ya da öğe bir noktaya yapışır), **yeşil perde (Keylight)**
+- **Altyazı:** otomatik (kararlı, dili seçilir; NVIDIA ekran kartında hızlı), zaman çizelgesinde altyazı şeridi, elle
+  satır, salise hassasiyeti, hazır stiller
+- **Konuşma / oyun sesi ayırma (AI, ekran kartında)**: iki ayrı ses katmanı
+- Ses klibinde hız, kesme, solma; her parçanın kendi ayar paneli; elle yazılan hız (0,25 - 4×)
+- 15 görüntü efekti, geçişler (her kesimde), çok katmanlı yazı / fotoğraf / ses / efekt
 - 1080×1920 MP4 dışa aktarma, kaydedileceği klasör seçilebilir
-- Katman 1, Katman 2…: her medya her katmana, video taşınınca sesi onunla gider, her kesime geçiş
-- Kişiselleştirme: 7 renk teması ya da kendi renklerin, kendi arka plan resmin, cam efekti, arayüz ölçeği (küçük ekrana kendiliğinden sığar), kısayolları değiştirme, ayarları başka bilgisayara taşıma
+- Kişiselleştirme: renk temaları, arka plan resmi, arayüz ölçeği, kısayolları değiştirme, ayarları başka bilgisayara taşıma
 
 ## Sürümler
 
