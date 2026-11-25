@@ -23,12 +23,16 @@ Kick, YouTube ve Twitch yayınlarından dikey **Shorts / Reels / TikTok** videol
 ## Neler var
 
 - Yayın bağlantısından ya da bilgisayardaki videodan klip seçme, kesme, birleştirme; masaüstünden sürükle bırak
-- Premiere mantığında zaman çizelgesi: böl, kısalt, araya ekle (Insert), Ctrl ile üzerine yaz (Overwrite), boşluğu kapat,
-  geri al; kesimler kareye oturur; sürüklerken ayraç çizgisi ve önizlemede kenar karesi (kırpmada son kalan kare)
+- Premiere mantığında zaman çizelgesi: böl, kısalt, imleçten öncesini / sonrasını sil (Q / W), araya ekle (Insert),
+  Ctrl ile üzerine yaz (Overwrite), boşluğu kapat, geri al; kesimler kareye oturur; sürüklerken ayraç çizgisi ve
+  önizlemede kenar karesi (kırpmada son kalan kare)
 - Katman 1, Katman 2…: her medya her katmana; video üst katmana çıkınca sesi Katman 1 sesi şeridinde yerinde kalır (bağlı)
 - Hazır kamera / oyun şablonları ya da serbest kare: Short üzerinde kırp, ölçekle, döndür, taşı
-- **Keyframe animasyonu** (konum, boyut, açı, opaklık; ana videoda yakınlaştırma), **takip** (kamera bir noktayı izler
-  ya da öğe bir noktaya yapışır), **yeşil perde (Keylight)**
+- **Efekt Denetimleri (Premiere gibi keyframe):** konum, ölçek, döndürme, bağlantı noktası, opaklık, parlaklık,
+  kontrast, doygunluk, ses; kronometre, geçiş türleri, hazır animasyonlar; önizlemede fareyle tutamaçlar
+- **Hareket takibi:** nesneyi ya da yüzü seç, kare kare izlensin (kaybolunca yanlış nesneye geçmez, düzeltilebilir);
+  **Kadrajı Takip Ettir** ile dikey kırpma nesneyi izler, yazı / çıkartma nesneye bağlanır
+- **Yeşil perde (Keylight)**
 - **Altyazı:** otomatik (kararlı, dili seçilir; NVIDIA ekran kartında hızlı), zaman çizelgesinde altyazı şeridi, elle
   satır, salise hassasiyeti, hazır stiller
 - **Konuşma / oyun sesi ayırma (AI, ekran kartında)**: iki ayrı ses katmanı
