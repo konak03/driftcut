@@ -1,5 +1,7 @@
 # Driftcut
 
+> **Beta (0.x):** Driftcut henüz beta; sürümler ilk tam sürüme (1.0) kadar 0.1, 0.2… diye artar. Depo beta boyunca gizlidir.
+
 Kick, YouTube ve Twitch yayınlarından dikey **Shorts / Reels / TikTok** videoları hazırlayan Windows masaüstü editörü.
 
 ## İndir
@@ -19,7 +21,8 @@ Kick, YouTube ve Twitch yayınlarından dikey **Shorts / Reels / TikTok** videol
 - Her kesilmiş parçaya ayrı ayar, kamera anı (belli bir sürede kamera öne çıkar)
 - Çok katmanlı zaman çizelgesi: video, fotoğraf, yazı, ses, efekt; katmanlar sırasıyla üst üste biner, efekt altındaki her katmana işler (Premiere'deki ayar katmanı gibi); yayın kesiti üst katmana da konur
 - 15 görüntü efekti, geçişler, otomatik ve elle düzenlenebilir altyazı stilleri
-- 1080×1920 MP4 dışa aktarma
+- 1080×1920 MP4 dışa aktarma, kaydedileceği klasör seçilebilir
+- Katman 1, Katman 2…: her medya her katmana, video taşınınca sesi onunla gider, her kesime geçiş
 - Kişiselleştirme: 7 renk teması ya da kendi renklerin, kendi arka plan resmin, cam efekti, arayüz ölçeği (küçük ekrana kendiliğinden sığar), kısayolları değiştirme, ayarları başka bilgisayara taşıma
 
 ## Sürümler
