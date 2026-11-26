@@ -31,8 +31,10 @@ Kick, YouTube ve Twitch yayınlarından dikey **Shorts / Reels / TikTok** videol
 - **Efekt Denetimleri (Premiere gibi keyframe):** konum, ölçek, döndürme, bağlantı noktası, opaklık, parlaklık,
   kontrast, doygunluk, ses; kronometre, geçiş türleri, hazır animasyonlar. Kaynak görüntüye uygulanır: Short'un
   çerçevesi yerinde kalır, içindeki görüntü kayar (kamera + oyun düzeninde yalnız oyuna da); tutamaçlar yayın karesinde
-- **Hareket takibi:** nesneyi ya da yüzü seç, kare kare izlensin (dönen, koşan karakterde ve araçta da tutar; kaybolunca
-  yanlış nesneye geçmez, geri gelince yeniden bulur, düzeltilebilir);
+- **Hareket takibi:** nesneyi ya da yüzü seç, kare kare izlensin. Nesneyi OpenCV'nin yapay zekâ izleyicisi bulur
+  (programın içinde, internet gerekmez): dönen, koşan, gölgeye giren karakterde ve yaklaşıp uzaklaşan araçta kutu
+  nesnenin üstünde kalır, boyu nesneyle değişir; kaybolunca yanlış nesneye geçmez, geri gelince yeniden bulur,
+  düzeltilebilir;
   **Kadrajı Takip Ettir** ile dikey kırpma nesneyi izler, yazı / çıkartma nesneye bağlanır
 - **Yeşil perde (Keylight)**
 - **Altyazı:** otomatik (kararlı, dili seçilir; NVIDIA ekran kartında hızlı), zaman çizelgesinde altyazı şeridi, elle
