@@ -27,11 +27,12 @@ Kick, YouTube ve Twitch yayınlarından dikey **Shorts / Reels / TikTok** videol
   Ctrl ile üzerine yaz (Overwrite), boşluğu kapat, geri al; kesimler kareye oturur; sürüklerken ayraç çizgisi ve
   önizlemede kenar karesi (kırpmada son kalan kare)
 - Katman 1, Katman 2…: her medya her katmana; video üst katmana çıkınca sesi Katman 1 sesi şeridinde yerinde kalır (bağlı)
-- Hazır kamera / oyun şablonları ya da serbest kare: Short üzerinde kırp, ölçekle, döndür, taşı
+- Hazır kamera / oyun şablonları ya da serbest kare: Short üzerinde kırp, ölçekle, döndür, taşı; kamera kutusu
+  kenarlarından ve köşelerinden boyutlanır, ortasından taşınır, Short'ta görünen kısmı elle kaydırılıp yakınlaştırılır
 - **Efekt Denetimleri (Premiere gibi keyframe):** konum, ölçek, döndürme, bağlantı noktası, opaklık, parlaklık,
   kontrast, doygunluk, ses; kronometre, geçiş türleri, hazır animasyonlar. Kaynak görüntüye uygulanır: Short'un
   çerçevesi yerinde kalır, içindeki görüntü kayar (kamera + oyun düzeninde yalnız oyuna da); tutamaçlar yayın karesinde
-- **Hareket takibi:** nesneyi ya da yüzü seç, kare kare izlensin. Nesneyi OpenCV'nin yapay zekâ izleyicisi bulur
+- **Hareket takibi:** nesneyi ya da yüzü seç, kare kare izlensin (60 fps'te saniyede 60 nokta). Nesneyi OpenCV'nin yapay zekâ izleyicisi bulur
   (programın içinde, internet gerekmez): dönen, koşan, gölgeye giren karakterde ve yaklaşıp uzaklaşan araçta kutu
   nesnenin üstünde kalır, boyu nesneyle değişir; kaybolunca yanlış nesneye geçmez, geri gelince yeniden bulur,
   düzeltilebilir;
@@ -42,7 +43,8 @@ Kick, YouTube ve Twitch yayınlarından dikey **Shorts / Reels / TikTok** videol
 - **Konuşma / oyun sesi ayırma (AI, ekran kartında)**: iki ayrı ses katmanı
 - Ses klibinde hız, kesme, solma; her parçanın kendi ayar paneli; elle yazılan hız (0,25 - 4×)
 - 15 görüntü efekti, geçişler (her kesimde), çok katmanlı yazı / fotoğraf / ses / efekt
-- 1080×1920 MP4 dışa aktarma, kaydedileceği klasör seçilebilir
+- 1080×1920 MP4 dışa aktarma, kaydedileceği klasör seçilebilir; **Akıcı 60 fps**: görüntüsü 60 fps'ten az olan klipte
+  (Kick'te 60 fps kapta 30 fps oyun görüntüsü dahil, kendiliğinden anlaşılır) ara kareler hareketten üretilir
 - Kişiselleştirme: renk temaları, arka plan resmi, arayüz ölçeği, kısayolları değiştirme, ayarları başka bilgisayara taşıma
 
 ## Sürümler
