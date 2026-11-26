@@ -29,8 +29,10 @@ Kick, YouTube ve Twitch yayınlarından dikey **Shorts / Reels / TikTok** videol
 - Katman 1, Katman 2…: her medya her katmana; video üst katmana çıkınca sesi Katman 1 sesi şeridinde yerinde kalır (bağlı)
 - Hazır kamera / oyun şablonları ya da serbest kare: Short üzerinde kırp, ölçekle, döndür, taşı
 - **Efekt Denetimleri (Premiere gibi keyframe):** konum, ölçek, döndürme, bağlantı noktası, opaklık, parlaklık,
-  kontrast, doygunluk, ses; kronometre, geçiş türleri, hazır animasyonlar; önizlemede fareyle tutamaçlar
-- **Hareket takibi:** nesneyi ya da yüzü seç, kare kare izlensin (kaybolunca yanlış nesneye geçmez, düzeltilebilir);
+  kontrast, doygunluk, ses; kronometre, geçiş türleri, hazır animasyonlar. Kaynak görüntüye uygulanır: Short'un
+  çerçevesi yerinde kalır, içindeki görüntü kayar (kamera + oyun düzeninde yalnız oyuna da); tutamaçlar yayın karesinde
+- **Hareket takibi:** nesneyi ya da yüzü seç, kare kare izlensin (dönen, koşan karakterde ve araçta da tutar; kaybolunca
+  yanlış nesneye geçmez, geri gelince yeniden bulur, düzeltilebilir);
   **Kadrajı Takip Ettir** ile dikey kırpma nesneyi izler, yazı / çıkartma nesneye bağlanır
 - **Yeşil perde (Keylight)**
 - **Altyazı:** otomatik (kararlı, dili seçilir; NVIDIA ekran kartında hızlı), zaman çizelgesinde altyazı şeridi, elle
