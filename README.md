@@ -44,7 +44,7 @@ Kick, YouTube ve Twitch yayınlarından dikey **Shorts / Reels / TikTok** videol
 - Ses klibinde hız, kesme, solma; her parçanın kendi ayar paneli; elle yazılan hız (0,25 - 4×)
 - 15 görüntü efekti, geçişler (her kesimde), çok katmanlı yazı / fotoğraf / ses / efekt
 - 1080×1920 MP4 dışa aktarma, kaydedileceği klasör seçilebilir; **Akıcı 60 fps**: görüntüsü 60 fps'ten az olan klipte
-  (Kick'te 60 fps kapta 30 fps oyun görüntüsü dahil, kendiliğinden anlaşılır) ara kareler hareketten üretilir;
+  (Kick'te 60 fps kapta 30 fps oyun görüntüsü dahil, kendiliğinden anlaşılır) ara kareler hareketten üretilir (üst katman videolarında da);
   ekran kartı varsa yapay zekâyla (RIFE, DirectX 12'li NVIDIA / AMD / Intel), 8 sn'lik klip ~9 sn'de
 - Kişiselleştirme: renk temaları, arka plan resmi, arayüz ölçeği, kısayolları değiştirme, ayarları başka bilgisayara taşıma
 
