@@ -46,6 +46,10 @@ Kick, YouTube ve Twitch yayınlarından dikey **Shorts / Reels / TikTok** videol
 - 1080×1920 MP4 dışa aktarma, kaydedileceği klasör seçilebilir; **Akıcı 60 fps**: görüntüsü 60 fps'ten az olan klipte
   (Kick'te 60 fps kapta 30 fps oyun görüntüsü dahil, kendiliğinden anlaşılır) ara kareler hareketten üretilir (üst katman videolarında da);
   ekran kartı varsa yapay zekâyla (RIFE, DirectX 12'li NVIDIA / AMD / Intel), 8 sn'lik klip ~9 sn'de
+- **Pencereler (Premiere paneli gibi):** Medya, Önizleme, Kaynak kadrajı, Özellikler, Zaman çizelgesi; aradaki çizgiyle
+  boyutlanır, başlığa çift tıkla büyür, gizlenir; Shift + 1…5 pencereye geçer. **Çalışma alanları** (Kurgu, Altyazı,
+  Efekt ve renk, Ses, Odak + kendi kaydettiklerin), **kompakt kip** ve **ultra geniş (32:9) düzen**: önizleme
+  yukarıdan aşağıya uzanır; boyutlar her ekran genişliği için ayrı saklanır
 - Kişiselleştirme: renk temaları, arka plan resmi, arayüz ölçeği, kısayolları değiştirme, ayarları başka bilgisayara taşıma
 
 ## Sürümler
