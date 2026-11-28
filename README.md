@@ -50,6 +50,8 @@ Kick, YouTube ve Twitch yayınlarından dikey **Shorts / Reels / TikTok** videol
   boyutlanır, başlığa çift tıkla büyür, gizlenir; Shift + 1…5 pencereye geçer. **Çalışma alanları** (Kurgu, Altyazı,
   Efekt ve renk, Ses, Odak + kendi kaydettiklerin), **kompakt kip** ve **ultra geniş (32:9) düzen**: önizleme
   yukarıdan aşağıya uzanır; boyutlar her ekran genişliği için ayrı saklanır
+- **Sade ekran:** açıklamalar başlıktaki **?** işaretinde; Özellikler'de **Seçili öğe | Kamera düzeni** ayrımı;
+  **Ara (Ctrl + F)**: komut, ayar ya da bölüm adını yaz, Enter oraya götürür ya da komutu çalıştırır
 - Kişiselleştirme: renk temaları, arka plan resmi, arayüz ölçeği, kısayolları değiştirme, ayarları başka bilgisayara taşıma
 
 ## Sürümler
