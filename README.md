@@ -52,6 +52,8 @@ Kick, YouTube ve Twitch yayınlarından dikey **Shorts / Reels / TikTok** videol
   yukarıdan aşağıya uzanır; boyutlar her ekran genişliği için ayrı saklanır
 - **Sade ekran:** açıklamalar başlıktaki **?** işaretinde; Özellikler'de **Seçili öğe | Kamera düzeni** ayrımı;
   **Ara (Ctrl + F)**: komut, ayar ya da bölüm adını yaz, Enter oraya götürür ya da komutu çalıştırır
+- **Pro arayüz (isteğe bağlı):** kurgu programlarındaki gibi düz, sıkı koyu gri paneller; menü çubuğu (bütün komutlar
+  kısayollarıyla), kare kare zaman kodu (tıkla, yaz: oraya git), V1 / A1 iz adları, üst barda çalışma alanı sekmeleri
 - Kişiselleştirme: renk temaları, arka plan resmi, arayüz ölçeği, kısayolları değiştirme, ayarları başka bilgisayara taşıma
 
 ## Sürümler
